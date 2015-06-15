@@ -28,12 +28,12 @@ fBodyGyroJerkMag
 
 # Calculated Aggregations
 
-The set of statistics that were calculated from these signals are: 
+The set of statistics that were calculated from these signals were: 
 
 mean: Mean value
 std: Standard deviation
 
-The mean and standard deviation were then averaged over the grouping of each activity and each subjects.   Separate means were calculated for each combination of actvity and subject. 
+The mean and standard deviation were then averaged over the grouping of each activity and each subject.   Separate means were calculated for each combination of actvity and subject. 
 
 ## Feature Names
 
